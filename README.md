@@ -2,4 +2,4 @@
 
 ## [Resume](Ethan%20Ducharme%20Resume)
 
-## [READ ME Instructions](/README_INSTRUCTIONS)
+## [READ ME Instructions](README_INSTRUCTIONS)
