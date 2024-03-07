@@ -1,6 +1,6 @@
 ---
 layout: default
-title: README
+title: RESUME
 ---
 
 # Ethan Ducharme Resume
