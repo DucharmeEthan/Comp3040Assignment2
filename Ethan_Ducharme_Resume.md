@@ -21,21 +21,19 @@ title: README
 
 ### Programming
 
-```
-JavaScript, TypeScript, Jest, Express, Python, PyTorch, Flask, SKlearn, SQL, PostgreSQL, Prisma, Java, Junit, C#, Bash, R, Machine Learning, (Familiar with: C, C++, React)
-```
+- JavaScript, TypeScript, Jest, Express
+- Python, PyTorch, Flask, SKlearn
+- SQL, PostgreSQL, Prisma
+- Java, Junit, C#, Bash, R, Machine Learning
+- Familiar with: C, C++, React
 
 ### Software
 
-```
-Git, Eclipse, Jira, Visual Studio, Postman, WireShark, Excel, LoadRunner, ActiveDirectory
-```
+- Git, Eclipse, Jira, Visual Studio, Postman, WireShark, Excel, LoadRunner, ActiveDirectory
 
 ### Environments
 
-```
-Unix, Linux, Windows, Docker
-```
+- Unix, Linux, Windows, Docker
 
 ## Work Experience
 
