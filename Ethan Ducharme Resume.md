@@ -1,3 +1,8 @@
+---
+layout: page
+title: Ethan Ducharme Resume
+---
+
 # Ethan Ducharme Resume
 
 ## Contact information
