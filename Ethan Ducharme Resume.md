@@ -1,9 +1,8 @@
 # Ethan Ducharme Resume
 
-```
-Winnipeg, Manitoba • (204)-218-1041 • ethanducharm@gmail.com
-linkedin.com/in/ethanducharme • github.com/DucharmeEthan
-```
+## Contact information
+
+### Winnipeg, Manitoba • (204)-218-1041 • <ethanducharm@gmail.com> • linkedin.com/in/ethanducharme • github.com/DucharmeEthan
 
 ## Education
 
