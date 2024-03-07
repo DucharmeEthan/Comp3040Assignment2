@@ -28,8 +28,7 @@ JavaScript, TypeScript, Jest, Express, Python, PyTorch, Flask, SKlearn, SQL, Pos
 ### Software
 
 ```
-Git, Eclipse, Jira, Visual Studio, Postman, WireShark, Excel,
-LoadRunner, ActiveDirectory
+Git, Eclipse, Jira, Visual Studio, Postman, WireShark, Excel, LoadRunner, ActiveDirectory
 ```
 
 ### Environments
