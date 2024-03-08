@@ -20,9 +20,8 @@ title: README
 
 - Navigate to your GitHub account at https://github.com/.
 - Create a new repository named your-username.github.io (replace "your-username" with your actual GitHub username) by clicking on the green new button as show below. ![alt text](image.png)
-- Fill out the required information on the page ensuring that the public option is set and choosing any name. Click Create Repository and you have set up the repository! ![alt text](image-1.png)
-- You should now see a page like this. ![alt text](image-2.png)
-- we will now clone the repository to your local machine. That can be done by clicking the "Set up in Desktop" button which will then download and open GitHub Desktop.
+- Fill out the required repository name on the page ensuring that the public option is selected and the Add a README file is set. Click Create Repository and you have set up the repository! ![alt text](image-3.png)
+-
 
 ### 2. Preparing Your Resume in Markdown
 
